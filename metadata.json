@@ -1,6 +1,0 @@
-{
-  "name": "Lienzo Business Model Canvas",
-  "description": "Una herramienta interactiva y lúdica para aprender y rellenar el Business Model Canvas, diseñada especialmente para nuevos emprendedores con el asistente Clip-Inno.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
